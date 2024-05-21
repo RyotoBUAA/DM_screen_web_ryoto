@@ -7,3 +7,5 @@ import pinia from './store/index';
 
 const app = createApp(App);
 app.use(pinia).use(router).mount('#app');
+
+//1
