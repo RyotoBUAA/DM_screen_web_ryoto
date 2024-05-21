@@ -60,7 +60,6 @@ export const titleList: TitltListItem[] = [
 ];
 
 export const dateList = [
-	'2020-01',
 	'2020-02',
 	'2020-03',
 	'2020-04',
